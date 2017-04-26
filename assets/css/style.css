@@ -52,7 +52,7 @@ Index
 
 html, 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 16px;
   color: #798289;
   line-height: 1.6;  
@@ -151,7 +151,7 @@ section.solid-bg, #footer.solid-bg {
 ------------------------------------------------------------------------
 */
 h1, h2, h3, h4 {
-  /*font-family: 'Dosis', sans-serif;*/
+  font-family: 'Cuprum', sans-serif;
   margin: 10px 0;
   text-transform: uppercase;
 } 
@@ -185,7 +185,7 @@ h6 {
   color: #0aabe1;
   background: transparent;
   border: 1px solid #0aabe1;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 2px;
@@ -406,7 +406,7 @@ header h1 {
   font-size: 0;
 }
 header .nav > li > a {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   text-transform: capitalize;
   padding: 12px 15px;
   border-radius: 2px;
@@ -894,7 +894,7 @@ section.video {
 }
 
 .video span {
-  font-family: "Dosis",sans-serif;
+  font-family: "Cuprum",sans-serif;
   font-weight: 800;
   font-size: 46px;
   text-transform: uppercase;
@@ -1031,7 +1031,7 @@ section.video {
 }
 .reviewer-name {
   position: relative;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-size: 24px;
   font-weight: 700;
   text-transform: capitalize; 
@@ -1050,7 +1050,7 @@ section.video {
   margin-left: -20px;
 }
 .review-comp {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-size: 20px;
 }
 .review-img {
@@ -1149,7 +1149,7 @@ section.video {
   background: #048bb9;
 }
 .price-header h3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   font-size: 34px;
   margin-bottom: 12px;
@@ -1177,12 +1177,12 @@ section.video {
   background: #f7f7f7;
 }
 .price {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   color: #0aabe1;
   font-size: 20px; 
 }
 .month {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   color: #b5b5b5;
 }
 
@@ -1259,7 +1259,7 @@ section.video {
   -moz-box-shadow: 0px 0px 0px 10px #0aabe1;
 }
 .support-block h3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   text-transform: capitalize;
   margin-bottom: 15px;
@@ -1307,7 +1307,7 @@ section.video {
   background: #0aabe1;
 }
 .subscription .form-control {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   background-color: transparent;
   border: 1px solid #fff;
   border-radius: 0px;
@@ -1554,7 +1554,7 @@ section.contact > .container {
 .copyright {
   font-size: 20px;
   position: relative;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   color: #fff;
 }
 .copyright span {
@@ -1623,4 +1623,10 @@ section.contact > .container {
 	background:url(../images/ui.totop.png) no-repeat left -51px;
 }
 
+.vacancies, .vacancies li {
+    color: #fff;
+    text-align: left;
+    font-size: 21px;
+    list-style: disc;
+}
 
